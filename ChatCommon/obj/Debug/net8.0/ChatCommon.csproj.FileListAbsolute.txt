@@ -1,0 +1,11 @@
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\bin\Debug\net8.0\ChatCommon.deps.json
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\bin\Debug\net8.0\ChatCommon.dll
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\bin\Debug\net8.0\ChatCommon.pdb
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ChatCommon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ChatCommon.AssemblyInfoInputs.cache
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ChatCommon.AssemblyInfo.cs
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ChatCommon.csproj.CoreCompileInputs.cache
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ChatCommon.dll
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\refint\ChatCommon.dll
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ChatCommon.pdb
+E:\Labs_True\ОСИСП\Lab_5\NetworkChatSolution\ChatCommon\obj\Debug\net8.0\ref\ChatCommon.dll

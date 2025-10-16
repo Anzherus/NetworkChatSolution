@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatClient\\ChatClient.csproj": {}
+  },
+  "projects": {
+    "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatClient\\ChatClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatClient\\ChatClient.csproj",
+        "projectName": "ChatClient",
+        "projectPath": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatClient\\ChatClient.csproj",
+        "packagesPath": "C:\\Users\\Anzherus\\.nuget\\packages\\",
+        "outputPath": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\vs code\\pipao\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anzherus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj": {
+                "projectPath": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj",
+        "projectName": "ChatCommon",
+        "projectPath": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj",
+        "packagesPath": "C:\\Users\\Anzherus\\.nuget\\packages\\",
+        "outputPath": "E:\\Labs_True\\ОСИСП\\Lab_5\\NetworkChatSolution\\ChatCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\vs code\\pipao\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anzherus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

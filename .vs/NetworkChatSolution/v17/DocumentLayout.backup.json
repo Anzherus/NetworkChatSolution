@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A457501C-1671-4711-9BAA-D815A041CDAC}|ChatTests\\ChatTests.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chattests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A457501C-1671-4711-9BAA-D815A041CDAC}|ChatTests\\ChatTests.csproj|solutionrelative:chattests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatcommon\\messagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|solutionrelative:chatcommon\\messagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatcommon\\chatprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|solutionrelative:chatcommon\\chatprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB060FF-2389-4D9B-9853-1E9A983E3E01}|ChatClient\\ChatClient.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB060FF-2389-4D9B-9853-1E9A983E3E01}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF1A4AC-ECBF-48CD-818B-863A8A80F223}|ChatServer\\ChatServer.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatserver\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF1A4AC-ECBF-48CD-818B-863A8A80F223}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF1A4AC-ECBF-48CD-818B-863A8A80F223}|ChatServer\\ChatServer.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF1A4AC-ECBF-48CD-818B-863A8A80F223}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A457501C-1671-4711-9BAA-D815A041CDAC}|ChatTests\\ChatTests.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chattests\\chattests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A457501C-1671-4711-9BAA-D815A041CDAC}|ChatTests\\ChatTests.csproj|solutionrelative:chattests\\chattests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatcommon\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|solutionrelative:chatcommon\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF1A4AC-ECBF-48CD-818B-863A8A80F223}|ChatServer\\ChatServer.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatserver\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CF1A4AC-ECBF-48CD-818B-863A8A80F223}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|e:\\labs_true\\\u043E\u0441\u0438\u0441\u043F\\lab_5\\networkchatsolution\\chatcommon\\chatcommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFBC07A7-41B3-432B-83C9-BD5E06348BE1}|ChatCommon\\ChatCommon.csproj|solutionrelative:chatcommon\\chatcommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Program.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatClient\\Program.cs",
+              "RelativeToolTip": "ChatClient\\Program.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:21:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatTests.csproj",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatTests\\ChatTests.csproj",
+              "RelativeDocumentMoniker": "ChatTests\\ChatTests.csproj",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatTests\\ChatTests.csproj",
+              "RelativeToolTip": "ChatTests\\ChatTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T21:45:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatServer.csproj",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatServer\\ChatServer.csproj",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServer.csproj",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatServer\\ChatServer.csproj",
+              "RelativeToolTip": "ChatServer\\ChatServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T21:45:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatServer\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ClientHandler.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatServer\\ClientHandler.cs",
+              "RelativeToolTip": "ChatServer\\ClientHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:21:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageBuilder.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\MessageBuilder.cs",
+              "RelativeDocumentMoniker": "ChatCommon\\MessageBuilder.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\MessageBuilder.cs",
+              "RelativeToolTip": "ChatCommon\\MessageBuilder.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:16:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NetworkHelper.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\NetworkHelper.cs",
+              "RelativeDocumentMoniker": "ChatCommon\\NetworkHelper.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\NetworkHelper.cs",
+              "RelativeToolTip": "ChatCommon\\NetworkHelper.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:15:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Program.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAuwDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:18:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatProtocol.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatProtocol.cs",
+              "RelativeDocumentMoniker": "ChatCommon\\ChatProtocol.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatProtocol.cs",
+              "RelativeToolTip": "ChatCommon\\ChatProtocol.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:14:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ChatTests\\UnitTest1.cs",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatTests\\UnitTest1.cs",
+              "RelativeToolTip": "ChatTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:12:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatCommon.csproj",
+              "DocumentMoniker": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj",
+              "RelativeDocumentMoniker": "ChatCommon\\ChatCommon.csproj",
+              "ToolTip": "E:\\Labs_True\\\u041E\u0421\u0418\u0421\u041F\\Lab_5\\NetworkChatSolution\\ChatCommon\\ChatCommon.csproj",
+              "RelativeToolTip": "ChatCommon\\ChatCommon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T21:14:10.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
